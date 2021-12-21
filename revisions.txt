@@ -1,0 +1,41 @@
+commit 7981c02a27d40ea941153ba2b3c309eb85e8e1f8
+Author: Ishan  Shah <is4761@cs.rit.edu>
+Date:   Thu Oct 7 09:37:32 2021 -0400
+
+    Increased max_friends
+
+commit be9238912bcd5933828556fe1e5b6d5a8d27feb5
+Author: Ishan  Shah <is4761@cs.rit.edu>
+Date:   Wed Oct 6 23:54:52 2021 -0400
+
+    Made changes to pass test 9
+
+commit f0b5a5454667ec94c2698b05fbbd1786c4fe429a
+Author: Ishan  Shah <is4761@cs.rit.edu>
+Date:   Wed Oct 6 22:00:36 2021 -0400
+
+    Completed documentation
+
+commit 02b0cacf1fd8537808dde591acb62983bc8e8c31
+Author: Ishan  Shah <is4761@cs.rit.edu>
+Date:   Wed Oct 6 20:02:22 2021 -0400
+
+    Program working. Documentation left!
+
+commit 9fa2bb6deef7571c1f67d83292eb6e0e51afddaf
+Author: Ishan  Shah <is4761@cs.rit.edu>
+Date:   Tue Oct 5 17:43:28 2021 -0400
+
+    Added error checking.
+
+commit b935f7874fddfb3bf234e42a5b8118318bbdab6e
+Author: Ishan  Shah <is4761@cs.rit.edu>
+Date:   Tue Oct 5 16:13:39 2021 -0400
+
+    unfriend working. need to add error checking changes.
+
+commit c7f0ff2f755bf9fe3384fbe0bbcfbdd173730fb8
+Author: Ishan  Shah <is4761@cs.rit.edu>
+Date:   Tue Oct 5 12:59:14 2021 -0400
+
+    friend, add, print and stat function completed
